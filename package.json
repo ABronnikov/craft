@@ -34,7 +34,6 @@
     "postcss-assets": "^4.1.0",
     "postcss-autoreset": "^1.2.1",
     "postcss-bem": "^0.4.1",
-    "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.8.0",
     "postcss-flexbugs-fixes": "^2.0.0",
     "postcss-focus": "^1.0.0",
